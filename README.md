@@ -4,7 +4,13 @@ I am backend developer.
 
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malgcheong&show_icons=true&theme=github_dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malgcheong&show_icons=true&theme=github_dark)
+
+</div>
+<div align="center">
+
+  ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skacjddn)
+
 </div>
 
 <h3 align="center">| Tech Stack |</h3>
@@ -26,3 +32,5 @@ I am backend developer.
   <a href="https://malgcheong.notion.site/4987ea34e5684cbabbea7bb9b39c1d6f?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-636e72?style=plastic&logo=notion&logoColor=white&text=Resume"/></a>
   <a href="mailto:skacjddn7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white"/></a>
 </p>
+
+

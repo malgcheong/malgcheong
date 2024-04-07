@@ -2,11 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3000&color=F7F7F7&multiline=true&random=false&width=1000&height=100&lines=Welcome+to+MalgCheong's+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <div align="center">
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malgcheong&show_icons=true&theme=github_dark)
-
-</div>
-<div align="center">
 
   ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skacjddn)
 

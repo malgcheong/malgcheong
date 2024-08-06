@@ -8,7 +8,7 @@
 
 <h3 align="center">| Contact |</h3>
 <p align="center">
-  <a href="https://malgcheong.notion.site/9ecbe8f571e5482ab62bdfcc73810280" target="_blank"><img src="https://img.shields.io/badge/AboutMe-636e72?style=for-the-badge&logo=notion&logoColor=white"/></a>
+  <a href="https://malgcheong.notion.site/" target="_blank"><img src="https://img.shields.io/badge/AboutMe-636e72?style=for-the-badge&logo=notion&logoColor=white"/></a>
   <a href="mailto:skacjddn7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
